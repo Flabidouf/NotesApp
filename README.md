@@ -1,6 +1,6 @@
 # NotesApp
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple Notes app to learn Vue.js 3 in Composition API. Check out the nice pastel colors !
 
 ## Recommended IDE Setup
 
